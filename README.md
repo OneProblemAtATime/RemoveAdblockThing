@@ -1,3 +1,5 @@
+This repo contains some minor changes to the awesome Adblock Popup remover tool by JoelMatic that may make work better if the original didn't work for you.
+
 # Remove the Adblock Popup from YOUTUBE
 
 [![picture](Thumbnail.jpg?raw=true)](https://www.youtube.com/watch?v=jvSf10lgxs4&ab_channel=Joelmatic)
