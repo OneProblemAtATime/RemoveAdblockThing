@@ -1,4 +1,4 @@
-This repo contains some minor changes to the awesome Adblock Popup remover tool by JoelMatic that may make work better if the original didn't work for you.
+This repo contains some minor changes to the awesome Adblock Popup remover tool by JoelMatic that may make this tool actually work if the original didn't work for you.
 
 # Remove the Adblock Popup from YOUTUBE
 
