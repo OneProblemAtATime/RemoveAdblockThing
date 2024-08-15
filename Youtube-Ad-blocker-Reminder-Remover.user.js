@@ -18,10 +18,10 @@
     //
 
     // Enable The Undetected Adblocker
-    const adblocker = true;
+    const adblocker = false;
 
     // Enable The Popup remover (pointless if you have the Undetected Adblocker)
-    const removePopup = false;
+    const removePopup = true;
 
     // Checks for updates (Removes the popup)
     const updateCheck = true;
@@ -111,9 +111,9 @@
                 log("Popup removed");
             }
             // Check if the video is paused after removing the popup
-            if (!video.paused) return;
+            //if (!video.paused) return;
             // UnPause The Video
-            video.play();
+            //video.play();
 
         }, 1000);
     }
