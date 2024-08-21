@@ -18,7 +18,7 @@
     //
 
     // Enable The Undetected Adblocker
-    const adblocker = false;
+    const adblocker = true;
 
     // Enable The Popup remover (pointless if you have the Undetected Adblocker)
     const removePopup = true;
